@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CarPooling</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drive">Willing to drive</string>
+    <string name="title_activity_driving_details">DrivingDetails</string>
+    <string name="passenger">A Passenger</string>
+    <string name="iam">I am</string>
+    <string name="About">About Us</string>
+    <string name="pooling">Lets Do some good</string>
+    <string name="welcome">"   Welcome to Smart Ride "</string>
+    <string name="passengerFrom">"From"</string>
+    <string name="passengerTo">"To"</string>
+    <string name="passengerDepartDate">"Date"</string>
+    <string name="passengerDeparttime">"Time"</string>
+    <string name="drivingdetails">Enter your Details</string>
+    <string name="next">Next</string>
+    <string name="Join">Join</string>
+    <string name="ScheduleNowRide">Proceed To Next Stage</string>
+    <string name="SelectAge">Select Age</string>
+    <string name="policy">Privacy policy, please read it.</string>
+    <string name="title_activity_driveoptions">Willing to drive</string>
+    <string name="welcome_options">Share the Happiness</string>
+    <string name="post">Post a ride Now</string>
+    <string name="scheduleRide">Schedule for Later</string>
+    <string name="track">Track posts</string>
+    <string name="title_activity_post_rideone">Post Ride</string>
+    <string name="title_activity_post_ridetwo">What time</string>
+    <string name="title_activity_other_driving">What Else</string>
+    <string name="title_activity_passenger_one">Passenger Details</string>
+    <string name="title_activity_passenger_two">Passenger Details</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="title_activity_drive_home">Welcome</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="submitPassengerRequest">Submit</string>
+    <string name="title_activity_joinuser">Join</string>
+    <string name="title_activity_track">Track Posts</string>
+    <string name="locationpicker_button_search">Search</string>
+    <string name="locationpicker_button_query">Query</string>
+    <string name="locationpicker_button_zoom_in">Submit</string>
+    <string name="locationpicker_button_zoom_out">-</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_track_details">User details</string>
+    <string name="title_activity_track_users">User details</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="title_activity_chat">Chat</string>
+    <string name="title_activity_driver_chat">DriverChat</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_terms">Terms</string>
+    <string name="title_activity_aws">AWS</string>
+    <string name="step1">Please upload an image of you!</string>
+    <string name="show_in_browser">Show in Browser</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="step2">You can see all your images that you have uploaded.</string>
+    <string name="sync_requests_note"></string>
+    <string name="upload_failure_title">Upload Failure</string>
+    <string name="browser_failure_title">Browser Failure</string>
+    <string name="ok">OK</string>
+    <string name="uploading">Uploading…</string>
+    <string name="title_activity_passoptions">Passoptions</string>
+    <string name="title_activity_awslist">AWSList</string>
+    <string name="title_activity_noted_aws">NotedAWS</string>
+    <string name="age_CategoryPrompt">Select Your Age Category</string>
+    <string name="car_CategoryPrompt">Select Your Car Brand</string>
+    <string name="str_vehicle_source">Enter Source Here</string>
+    <string name="str_vehicle_dest">Enter Your Destination Here</string>
+
+    <string-array name="ageCategory">
+
+        <item>20-25</item>
+        <item>25-30</item>
+        <item>30-35</item>
+        <item>35-40</item>
+        <item>Above40</item>
+        <item>SelectAgeCategory</item>
+
+    </string-array>
+    <string-array name="carCategory">
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Maruti Suzuki</item>
+        <item>Others</item>
+        <item>SelectCarCategory</item>
+    </string-array>
+    <string name="title_activity_custom_auto_complete_text_view_map">CustomAutoCompleteTextViewMap
+    </string>
+    <string name="title_activity_passenger_main">passengerMain</string>
+    <string name="title_activity_location_picker">LocationPickerActivity</string>
+    <string name="title_activity_show_vehicle_owner_map">showVehicleOwnerMap</string>
+
+
+
+<!--String for Map API  -->
+
+    <string name="autocomplete_hint">Enter place name or address</string>
+    <string name="selected_place">Last Selected Place:</string>
+    <string name="clear_text">Clear Text</string>
+
+    <!-- getString(String, Object...) does not support HTML tags directly, they need to be encoded first.
+    Original string: <b>%1$s</b><br/><i>Place Id: %2$s</i><br/>Address: %3$s<br/>Phone: %4$s<br/>Website: %5$s-->
+    <string name="place_details">&lt;b&gt;%1$s&lt;/b&gt;&lt;br/&gt;&lt;i&gt;Place Id: %2$s&lt;/i&gt;&lt;br/&gt;Address: %3$s&lt;br/&gt;Phone: %4$s&lt;br/&gt;Website: %5$s</string>
+    <string name="title_activity_show_direction_on_map__vehicle">showDirectionOnMap_Vehicle</string>
+    <string name="title_activity_show_passengersin_route">showPassengersinRoute</string>
+
+
+</resources>

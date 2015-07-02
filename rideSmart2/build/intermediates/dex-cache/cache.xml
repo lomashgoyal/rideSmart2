@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-0aa8c02a994ad135a22083db622e6e81afbb83dd.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-ae566e5d4337c83d6e041f83a9b3dbb811e8b458.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-5c5b5fc716db62f0e925f36a0509249ade0a2df1.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-c59f85d66a0d5768be691b203c39b767a99fd120.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-bd2c60a25383b2b1b3cd606d75d53aa9ea33ba07.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-8689343af279903b4766becf1ba304d6d68ff55b.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-939b44bf8f6ffeafa578e06dbc473ec2bcb3af08.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/9c6ef172e8de35fd8d4d8783e4821e57cdef7445/guava-17.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/guava-17.0-34de886b5f736b3fe800c9634d48be43207ab045.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-b7a384956f5ef5079aa0a3b7d0ff62c64b79e21b.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-fffb92c7a9d1800163a189a1b75ca24255307be5.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/slf4j-android-1.5.8.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="404eece4bb07ea211f5a879c22458775c612f0df">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/slf4j-android-1.5.8-b10975be22ad087ac0ad7ef4fb31abf168f4ed05.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/aws-android-sdk-1.5.0-core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7be37e06c24aa0b08b7d6c217e21f8780b87b449">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/aws-android-sdk-1.5.0-core-4a87813bf3c3e3b0c9f9063d7f1607d843ead645.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/Parse-1.2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b8e8422f88121896fe91f8620e75b0f9be9a4fa">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/Parse-1.2.3-0102c1bb8154eadcbe25c246494a31229577916c.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-7cd29cea7f8fe8bc26c4a1c172f09610141efcc8.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-2ffc41112c46b46bc6d2ea39c487b064b8066577.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-85dee498d893a7e4b555001983a40b4994addf92.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/urbanairship-lib-2.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c84e12564c90408edf5b513fbba59e66178d375a">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/urbanairship-lib-2.1.2-c511c40049ee9e20f818506b694a14ad8277f27a.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/kinvey-android-lib-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7f7fc8aec31da086b07a3cf0c437bbb383b36e26">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/kinvey-android-lib-2.2.0-47aeacb66b49384086b27b0acfe94fd43254e2fb.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-4d6022803f4734fab3e35f28e3dcfa7712d6e492.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/kinvey-java-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5de152e70d58e595b2a3b103761202a71cc223a5">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/kinvey-java-2.2.0-c307325ef97dbf7d8cdccef6464d8165f08b29da.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/google-http-client-1.13.1-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a8b04a5ab15c35137cefc559a6b3f016910d8d54">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/google-http-client-1.13.1-beta-d436904bcb3a25d03b7539b377aadc30f4bc956d.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-ef1e05fe54ea26a7f748bde583d0481ea489b8e7.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/aws-android-sdk-1.5.0-s3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d10fb2c6f5bbb49852fd7412a4c58c82e31d2449">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/aws-android-sdk-1.5.0-s3-8ad6823b4f18a5894232ce3b1b4cf8bb578467b6.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/google-http-client-android-1.13.1-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e471a52714d1300f6c0d43dd7ed9e34bf3c9fb23">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.13.1-beta-9a5e056058b7af626d0435e921e7d7b12735726f.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-18d23b6e6ecf17e8006877c463b83c906bb2e6fa.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/maps.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c5e4add9f7e72566520ce964af5eca390ce9877">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/maps-ecaa87f8644d74f85c192d6705f7fb2f110eb88b.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/osmdroid-android-3.0.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5195cf95f7d438f8e6532f18e324475537c23044">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/osmdroid-android-3.0.9-1cfcc601b5492cb8ef5ed9a8766098bc82c7bca5.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-66b460a9310ace7ea38ee39f79ec367238260db0.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/jsoup-1.7.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/jsoup-1.7.2-ff510fbc6e4e628bc3dfc1259b677bc57707a636.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-7dbea7a18d57b2d6d7045b37ff3638fc59c9d13e.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.1/2e66da15851f9f5b5079228f856c2f090ba98c38/gson-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/gson-2.1-f48a847e0d2220580d4760c86ce7970d3f5093ca.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-ade35ebf062fc20e05eaefa61ecf461c27e81aaa.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-3c56f99b72df8a003145d37f58e29ed3137f16af.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-b7d6f7589e4bf179e4e72719f020d11f67b08666.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-9c5e55d58672205273276eca4b8855752b0db263.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-e894c5633daa03c561a600e12508ff8127d29f5e.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/libs/osmbonuspack_v3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3a5ec15735433184a658b67c38c1780403a51cf7">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/osmbonuspack_v3.2-07708128035875878f468c556de26a3dc712f13a.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-9c23e2e43b1226cb605ef7cc8824a14462f9bef0.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-3a853665e24a5713028934c9cf09ae2183ce1572.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-81cd6dd1994bca3ba9cdcd2c3a8869a4881cad40.jar" />
+    </item>
+    <item
+        jar="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/lomashg/Downloads/rideSmart2/app/build/intermediates/pre-dexed/debug/classes-4eed765916321f5720ea8661f2abce6a9a532166.jar" />
+    </item>
+
+</items>

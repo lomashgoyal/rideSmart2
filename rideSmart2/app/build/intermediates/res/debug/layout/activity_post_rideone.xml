@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/latlongLocation"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:layout_alignParentBottom="true"
+        android:background="#ff058fff"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:textColor="#ffffffff"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp" />
+
+    <com.google.android.maps.MapView
+        android:id="@+id/googleMap"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:apiKey="0u7AJChI1NV8vCpj21C0Cq8YnNMrB6YMgigu0GA"
+        android:clickable="true"
+        android:layout_below="@id/latlongLocation" />
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvAddress"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="134dp"
+         />
+
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Location"
+        android:id="@+id/btnGPSShowLocation"
+        android:layout_alignRight="@+id/latlongLocation"
+        android:layout_marginTop="53dp"
+
+         />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Address"
+        android:id="@+id/btnShowAddress"
+        android:layout_alignRight="@+id/tvAddress"
+        android:layout_below="@+id/btnGPSShowLocation"
+        />
+
+</RelativeLayout>
+
+
+
+
+
+
+
+<!-- From: file:/Users/lomashg/Downloads/rideSmart2/app/src/main/res/layout/activity_post_rideone.xml -->

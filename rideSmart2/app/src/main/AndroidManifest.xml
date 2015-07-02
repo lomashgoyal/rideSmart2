@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bharathmg.carpooling"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-library android:name="com.google.android.maps" />
+
+    <activity
+        android:name=".showdirectiononmap_vehicle"
+        android:label="@string/app_name" />
+
+    <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+
+        <category android:name="android.intent.category.LAUNCHER" />
+    </intent-filter>
+
+    <permission
+        android:name="com.bharathmg.carpooling.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="com.bharathmg.carpooling.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo.Light.NoActionBar" >
+        <activity
+            android:name=".Home"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DrivingDetails"
+            android:label="@string/title_activity_driving_details" >
+        </activity>
+        <activity
+            android:name=".Login"
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="adjustResize|stateVisible" >
+        </activity>
+        <activity
+            android:name=".Driveoptions"
+            android:label="@string/title_activity_driveoptions" >
+        </activity>
+        <activity
+            android:name=".PostRideone"
+            android:label="@string/title_activity_post_rideone" >
+        </activity>
+        <activity
+            android:name=".PostRidetwo"
+            android:label="@string/title_activity_post_ridetwo" >
+        </activity>
+        <activity
+            android:name=".OtherDriving"
+            android:label="@string/title_activity_other_driving" >
+        </activity>
+        <activity
+            android:name=".PassengerOne"
+            android:label="@string/title_activity_passenger_one" >
+        </activity>
+        <activity
+            android:name=".PassengerTwo"
+            android:label="@string/title_activity_passenger_two" >
+        </activity>
+        <activity
+            android:name=".Contact"
+            android:label="@string/title_activity_contact" >
+        </activity>
+        <activity
+            android:name=".DriveHome"
+            android:label="@string/title_activity_drive_home" >
+        </activity>
+        <activity
+            android:name=".Joinuser"
+            android:label="@string/title_activity_joinuser" >
+        </activity>
+        <activity
+            android:name=".Track"
+            android:label="@string/title_activity_track" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name=".TrackDetails"
+            android:label="@string/title_activity_track_details" >
+        </activity>
+        <activity
+            android:name=".TrackUsers"
+            android:label="@string/title_activity_track_users" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBFbvGI7WdpemPeuuGgTN36aTAr3CIhIuQ" />
+
+        <activity
+            android:name=".Maps"
+            android:label="@string/title_activity_maps" >
+        </activity>
+        <activity
+            android:name=".Chat"
+            android:label="@string/title_activity_chat" >
+        </activity>
+        <activity
+            android:name=".DriverChat"
+            android:label="@string/title_activity_driver_chat" >
+        </activity>
+        <activity
+            android:name=".About"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name=".Terms"
+            android:label="@string/title_activity_terms" >
+        </activity>
+        <activity
+            android:name=".AWS"
+            android:label="@string/title_activity_aws" >
+        </activity>
+        <activity
+            android:name=".Passoptions"
+            android:label="@string/title_activity_passoptions" >
+        </activity>
+        <activity
+            android:name=".AWSList"
+            android:label="@string/title_activity_awslist" >
+        </activity>
+        <activity
+            android:name=".NotedAWS"
+            android:label="@string/title_activity_noted_aws" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <uses-library android:name="com.google.android.maps" />
+
+        <activity
+            android:name=".PreRideVehicleOwner1"
+            android:label="@string/title_activity_custom_auto_complete_text_view_map" >
+        </activity>
+        <activity
+            android:name=".PassengerModule.passengerMain"
+            android:label="@string/title_activity_passenger_main" >
+        </activity>
+        <activity
+            android:name=".PassengerModule.LocationPickerActivity"
+            android:label="@string/title_activity_location_picker" >
+        </activity>
+        <activity
+            android:name=".showMapRouteForVehicleOwner.showVehicleOwnerMap"
+            android:label="@string/title_activity_show_vehicle_owner_map" >
+        </activity>
+        <activity
+            android:name=".showMapRouteForVehicleOwner.showDirectionOnMap_Vehicle"
+            android:label="@string/title_activity_show_direction_on_map__vehicle" >
+        </activity>
+        <activity
+            android:name=".showMapRouteForVehicleOwner.showPassengersinRoute"
+            android:label="@string/title_activity_show_passengersin_route" >
+        </activity>
+    </application>
+
+</manifest>

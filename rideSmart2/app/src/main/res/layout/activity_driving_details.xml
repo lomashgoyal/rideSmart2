@@ -1,0 +1,145 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_light"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".DrivingDetails" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/drivingdetails"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#fff" />
+
+
+    <EditText
+        android:id="@+id/EditText02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/age_spinner"
+        android:layout_below="@+id/age_spinner"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="Contact Number"
+        android:padding="10dp"
+        android:textColor="#fff"
+        android:textColorHint="#fff" />
+
+    <EditText
+        android:id="@+id/EditText03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/EditText02"
+        android:layout_below="@+id/EditText02"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="e-mail"
+        android:padding="10dp"
+        android:textColor="#fff"
+        android:textColorHint="#fff" />
+
+    <Spinner
+        android:id="@+id/age_spinner"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@id/editText1"
+        android:layout_below="@id/editText1"
+        android:ems="5"
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:theme="@android:style/Theme.Holo.Light.DarkActionBar"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:padding="10dp"
+        android:spinnerMode="dialog"
+
+
+        />
+
+    <Spinner
+        android:id="@+id/carModel_spinner"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@id/EditText03"
+        android:layout_below="@id/EditText03"
+        android:ems="5"
+        android:prompt="@string/car_CategoryPrompt"
+        android:hint="Age Category"
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:padding="10dp"
+        android:spinnerMode="dialog"/>
+
+    <EditText
+        android:id="@+id/EditText05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/EditText06"
+        android:layout_below="@+id/EditText06"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Notes"
+        android:padding="10dp"
+        android:textColor="#fff"
+        android:textColorHint="#fff" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/EditText01"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Name"
+        android:padding="10dp"
+        android:textColor="#fff"
+        android:textColorHint="#fff" />
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:visibility="invisible" />
+
+    <EditText
+        android:id="@+id/EditText06"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/carModel_spinner"
+        android:layout_below="@+id/carModel_spinner"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="CarNumber"
+        android:padding="10dp"
+        android:textColor="#fff"
+        android:textColorHint="#fff" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/EditText05"
+        android:layout_below="@+id/EditText05"
+        android:layout_marginTop="52dp"
+        android:background="#fff"
+        android:onClick="join"
+        android:padding="10dp"
+        android:paddingBottom="15dp"
+        android:paddingTop="5dp"
+        android:text="@string/Join"
+        android:textColor="#000" />
+
+</RelativeLayout>
