@@ -3,7 +3,7 @@ package com.bharathmg.carpooling;
 import org.osmdroid.util.GeoPoint;
 import org.osmdroid.views.overlay.mylocation.MyLocationNewOverlay;
 
-import com.bharathmg.carpooling.showMapRouteForVehicleOwner.GetRouteTaskUtility;
+import com.bharathmg.carpooling.mapnavigator.GetRouteTaskUtility;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.model.LatLng;

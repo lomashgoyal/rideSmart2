@@ -42,9 +42,9 @@ package com.bharathmg.carpooling;
         import android.widget.SimpleAdapter;
         import android.widget.TextView;
 
-        import com.bharathmg.carpooling.showMapRouteForVehicleOwner.GetRouteTaskUtility;
-        import com.bharathmg.carpooling.showMapRouteForVehicleOwner.PlaceDetailsJSONParser;
-        import com.bharathmg.carpooling.showMapRouteForVehicleOwner.PlaceJSONParser;
+        import com.bharathmg.carpooling.mapnavigator.GetRouteTaskUtility;
+        import com.bharathmg.carpooling.mapnavigator.PlaceDetailsJSONParser;
+        import com.bharathmg.carpooling.mapnavigator.PlaceJSONParser;
         import com.google.android.gms.maps.CameraUpdate;
         import com.google.android.gms.maps.CameraUpdateFactory;
         import com.google.android.gms.maps.GoogleMap;

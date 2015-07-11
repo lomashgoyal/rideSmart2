@@ -66,7 +66,7 @@ public class Navigator {
 
 
     public interface OnPathSetListener{
-		public void onPathSetListener(Directions directions);
+		void onPathSetListener(Directions directions);
 	}
 
 	public void setOnPathSetListener(OnPathSetListener listener){
@@ -199,7 +199,7 @@ public class Navigator {
 		return lines;
 	}
 
-	public class PathCreator extends AsyncTask<String,Void,Directions>{
+	public class PathCreator extends AsyncTask<Void,Void,Directions>{
         @Override
         public void onPreExecute(){
             if(mode == null){
@@ -210,7 +210,7 @@ public class Navigator {
         }
 
 		@Override
-		protected String doInBackground(String... params) {
+		protected Directions doInBackground(Void... params) {
 
 //		        String url = "http://maps.googleapis.com/maps/api/directions/json?"
 //		                + "origin=" + startPosition.latitude + "," + startPosition.longitude

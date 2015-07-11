@@ -1,4 +1,4 @@
-package com.bharathmg.carpooling.showMapRouteForVehicleOwner;
+package com.bharathmg.carpooling.mapnavigator;
 
 /**
  * Created by lomashg on 14/06/15.

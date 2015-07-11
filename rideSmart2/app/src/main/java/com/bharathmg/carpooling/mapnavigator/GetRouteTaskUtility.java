@@ -1,4 +1,4 @@
-package com.bharathmg.carpooling.showMapRouteForVehicleOwner;
+package com.bharathmg.carpooling.mapnavigator;
 
 
 import android.graphics.Color;
